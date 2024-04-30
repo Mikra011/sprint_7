@@ -9,7 +9,7 @@ function App() {
       <nav>
         {/* NavLinks here */}
         <Link to='/' >Home</Link>
-        <Link to='order' >Shop</Link>
+        <Link to='order' >Order</Link>
       </nav>
       {/* Route and Routes here */}
       <Routes>
